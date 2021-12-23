@@ -1,1 +1,5 @@
+title: RaiderKnight theme
+description: Based on Architect theme for GitHub Pages.
 theme: jekyll-theme-architect
+show_downloads: true
+google_analytics: 
