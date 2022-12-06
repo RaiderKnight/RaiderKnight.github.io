@@ -16,15 +16,15 @@ We have an official forums with some detailed FAQ and where the project chimes i
 If chat is more your speed, you can join the [RaiderKnight server on Discord](https://discord.gg/d3U9E2wb4Y):
 Even though Discord is a chat service, sometimes it takes several hours for project members to respond — please be patient!
 <ul><li> Use the #rules - Rules and general information.</li>
-<li> Use the #workflows - Announcements related to my projects.</li>
-<li> Use the #general - Main chat for all topics, try to keep images to a minimum.</li>
-<li> Use the #saloon - For chatting about anything.</li>
-<li> Use the #support - Support channel for help about my mods.</li>
-<li> Use the #ideas-and-feedback - To give ideas and feedback about my mods.</li>
-<li> Use the #find-a-bug -  To report a bug about my mods.</li>
-<li> Use the #coding-room - Chat for talking about programming.</li>
-<li> Use the #patrons-saloon - For chatting between patrons, suggestion or else.</li></ul>
-There are many other channels available, check the channel list on #rules
+<li> Use the &0x23;workflows - Announcements related to my projects.</li>
+<li> Use the &0x23;general - Main chat for all topics, try to keep images to a minimum.</li>
+<li> Use the &0x23;saloon - For chatting about anything.</li>
+<li> Use the &0x23;support - Support channel for help about my mods.</li>
+<li> Use the &0x23;ideas-and-feedback - To give ideas and feedback about my mods.</li>
+<li> Use the &0x23;find-a-bug -  To report a bug about my mods.</li>
+<li> Use the &0x23;coding-room - Chat for talking about programming.</li>
+<li> Use the &0x23;patrons-saloon - For chatting between patrons, suggestion or else.</li></ul>
+There are many other channels available, check the channel list on &0x23;rules
 <br />
 <br />
 ## What should I know before I get started?
@@ -32,7 +32,7 @@ There are many other channels available, check the channel list on #rules
 [How to edit/create files for the Remake of LifePlay](https://lifeplay.site/viewtopic.php?p=460)
 
 For the moment, Raddeck, the project administrator, he's the only one who are in charge of editing the files (more than 1500) and adding contributions to the project.
-When we make a significant decision in how we maintain the project and what we can or cannot support, we will document it in the #lp-remake-decisions channel. If you have a question around how we do things, check to see if it is documented on [https://discord.gg/d3U9E2wb4Y RaiderKnight Discord server] or [https://raiderknight-mods.fandom.com/wiki/RaiderKnight_Mods_Wiki RaiderKnight Mods Wiki]. If it is not documented there, please open a new topic on Discord or Github and ask your question.
+When we make a significant decision in how we maintain the project and what we can or cannot support, we will document it in the &0x23;lp-remake-decisions channel. If you have a question around how we do things, check to see if it is documented on [https://discord.gg/d3U9E2wb4Y RaiderKnight Discord server] or [https://raiderknight-mods.fandom.com/wiki/RaiderKnight_Mods_Wiki RaiderKnight Mods Wiki]. If it is not documented there, please open a new topic on Discord or Github and ask your question.
 <br />
 <br />
 ## Most important rules before joining as an artist, modder or writer
@@ -40,7 +40,7 @@ When we make a significant decision in how we maintain the project and what we c
 <li> You need to be an artist, a modder or a writer.</li>
 <li> You need to join the [RaiderKnight server on Discord](https://discord.gg/d3U9E2wb4Y) (no obligations but if you want news...).</li>
 <li> You need to show your work.</li>
-<li> If accepted, you will have access to #lp-remake channels.</li>
+<li> If accepted, you will have access to &0x23;lp-remake channels.</li>
 <li> Once in place, your contribution cannot be deleted.<sup>1</sup></li>
 <li> You accept to give your contribution to the project.<sup>1</sup></li></ul>
 
@@ -113,10 +113,10 @@ If the problem wasn't triggered by a specific action, describe what you were doi
 ##  Suggesting Enhancements
 This section guides you through submitting an enhancement suggestion for the Remake of LifePlay, including completely new features and minor improvements to existing functionality. Following these guidelines helps maintainers and the community understand your suggestion 📝 and find related suggestions 🔎.
 
-Before creating enhancement suggestions, please check on [Discord](https://discord.gg/d3U9E2wb4Y) (#ideas-and-feedback) and/or on the [Forums Raider Knight](https://lifeplay.site), as you might find out that you don't need to create one. When you are creating an enhancement suggestion, please include as many details as possible. [Fill in the template](https://raiderknight.com/suggestion-and-new-features-request/), including the steps that you imagine you would take if the feature you're requesting existed.
+Before creating enhancement suggestions, please check on [Discord](https://discord.gg/d3U9E2wb4Y) (&0x23;ideas-and-feedback) and/or on the [Forums Raider Knight](https://lifeplay.site), as you might find out that you don't need to create one. When you are creating an enhancement suggestion, please include as many details as possible. [Fill in the template](https://raiderknight.com/suggestion-and-new-features-request/), including the steps that you imagine you would take if the feature you're requesting existed.
 
 #### Before Submitting An Enhancement Suggestion
-* - Visit #ideas-and-feedback on [Discord](https://discord.gg/d3U9E2wb4Y) and/or on the [Forums Raider Knight](https://lifeplay.site), to see if someone has made the same suggestion.
+* - Visit &0x23;ideas-and-feedback on [Discord](https://discord.gg/d3U9E2wb4Y) and/or on the [Forums Raider Knight](https://lifeplay.site), to see if someone has made the same suggestion.
 * - Double check your suggestion
 
 #### How Do I Submit A (Good) Enhancement Suggestion?
@@ -132,7 +132,7 @@ Enhancement suggestions are tracked as [GitHub issues](https://guides.github.com
 <br />
 ##  Your First Code Contribution
 Unsure where to begin contributing to the Remake of LifePlay? You can start by looking through these beginner and help-wanted issues:
-* Ask your questions on [RaiderKnight server on Discord](https://discord.gg/d3U9E2wb4Y) - #support or #coding-room channel or [Forums Raider Knight](https://lifeplay.site).
+* Ask your questions on [RaiderKnight server on Discord](https://discord.gg/d3U9E2wb4Y) - &0x23;support or &0x23;coding-room channel or [Forums Raider Knight](https://lifeplay.site).
 * Visit the Forum Raider Knight about: For modding LP Remake.
 * Read: [Rules for contributing in the Remake of LifePlay](https://lifeplay.site/viewtopic.php?p=565).
 * Learn: [How to edit/create files for the Remake of LifePlay](https://lifeplay.site/viewtopic.php?p=460).
