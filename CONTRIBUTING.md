@@ -15,16 +15,15 @@ We have an official forums with some detailed FAQ and where the project chimes i
 
 If chat is more your speed, you can join the [RaiderKnight server on Discord](https://discord.gg/d3U9E2wb4Y):
 Even though Discord is a chat service, sometimes it takes several hours for project members to respond — please be patient!
-
-* Use the #rules - Rules and general information.
-* Use the #workflows - Announcements related to my projects.
-* Use the #general - Main chat for all topics, try to keep images to a minimum.
-* Use the #saloon - For chatting about anything.
-* Use the #support - Support channel for help about my mods.
-* Use the #ideas-and-feedback - To give ideas and feedback about my mods.
-* Use the #find-a-bug -  To report a bug about my mods.
-* Use the #coding-room - Chat for talking about programming.
-* Use the #patrons-saloon - For chatting between patrons, suggestion or else.
+<ul><li> Use the #rules - Rules and general information.</li>
+<li> Use the #workflows - Announcements related to my projects.</li>
+<li> Use the #general - Main chat for all topics, try to keep images to a minimum.</li>
+<li> Use the #saloon - For chatting about anything.</li>
+<li> Use the #support - Support channel for help about my mods.</li>
+<li> Use the #ideas-and-feedback - To give ideas and feedback about my mods.</li>
+<li> Use the #find-a-bug -  To report a bug about my mods.</li>
+<li> Use the #coding-room - Chat for talking about programming.</li>
+<li> Use the #patrons-saloon - For chatting between patrons, suggestion or else.</li></ul>
 There are many other channels available, check the channel list on #rules
 <br />
 <br />
@@ -37,25 +36,25 @@ When we make a significant decision in how we maintain the project and what we c
 <br />
 <br />
 ## Most important rules before joining as an artist, modder or writer
-* You need to be at least 18 years old or older.
-* You need to be an artist, a modder or a writer.
-* You need to join the [RaiderKnight server on Discord](https://discord.gg/d3U9E2wb4Y) (no obligations but if you want news...).
-* You need to show your work.
-* If accepted, you will have access to #lp-remake channels.
-* Once in place, your contribution cannot be deleted.<sup>1</sup>
-* You accept to give your contribution to the project.<sup>1</sup>
+<ul><li> You need to be at least 18 years old or older.</li>
+<li> You need to be an artist, a modder or a writer.</li>
+<li> You need to join the [RaiderKnight server on Discord](https://discord.gg/d3U9E2wb4Y) (no obligations but if you want news...).</li>
+<li> You need to show your work.</li>
+<li> If accepted, you will have access to #lp-remake channels.</li>
+<li> Once in place, your contribution cannot be deleted.<sup>1</sup></li>
+<li> You accept to give your contribution to the project.<sup>1</sup></li></ul>
 
 <blockquote>Notes<sup>1</sup>: Your contribution will be edited by all modders participating in the project.</blockquote>
 <br />
 <br />
 ## How Can I Contribute?
 #### - As a fan, player, other:
-- Reporting Bugs - on [RaiderKnight server on Discord](https://discord.gg/d3U9E2wb4Y) - on [Github](https://github.com/RaiderKnight)<br>
-- Suggesting Enhancements - on [RaiderKnight server on Discord](https://discord.gg/d3U9E2wb4Y) or [Forums Raider Knight](https://lifeplay.site)<br>
-- Sharing tutorial or documentation - on [Forums Raider Knight](https://lifeplay.site)<br>
-- Your First Code Contribution - on [Forums Raider Knight](https://lifeplay.site)<br>
-- Pull Requests - on [Github](https://github.com/RaiderKnight)<br>
-- Supporting my works - on [my Patreon page](https://www.patreon.com/raiderknight)
+<ul><li> Reporting Bugs - on [RaiderKnight server on Discord](https://discord.gg/d3U9E2wb4Y) - on [Github](https://github.com/RaiderKnight)</li>
+<li> Suggesting Enhancements - on [RaiderKnight server on Discord](https://discord.gg/d3U9E2wb4Y) or [Forums Raider Knight](https://lifeplay.site)</li>
+<li> Sharing tutorial or documentation - on [Forums Raider Knight](https://lifeplay.site)</li>
+<li> Your First Code Contribution - on [Forums Raider Knight](https://lifeplay.site)</li>
+<li> Pull Requests - on [Github](https://github.com/RaiderKnight)</li>
+<li> Supporting my works - on [my Patreon page](https://www.patreon.com/raiderknight)</li></ul>
 <br />
 <br />
 ##  By joining the project
@@ -72,12 +71,12 @@ Find typos or fixing texts, find bugs or dead ends, help us to set better values
 Create a story who fit with the Remake of LifePlay universe and I or we will make the coding!
 
 #### If I refuse your contribution, don't be upset, maybe:
-* Your story already exist or is too short.
-* You overestimated the power of the game.
-* Your story have too many elements, that it will take a year to code.
-* Your coding is so bad, that I have to remake it.
-* Your mod don't have enough actions/content/consequences,...
-* Others.
+<ul><li> Your story already exist or is too short.</li>
+<li> You overestimated the power of the game.</li>
+<li> Your story have too many elements, that it will take a year to code.</li>
+<li> Your coding is so bad, that I have to remake it.</li>
+<li> Your mod don't have enough actions/content/consequences,...</li>
+<li> Others.</li></ul>
 <br />
 <br />
 ##  By reporting bugs 
