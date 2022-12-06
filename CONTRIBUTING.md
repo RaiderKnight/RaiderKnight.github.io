@@ -43,10 +43,10 @@ When we make a significant decision in how we maintain the project and what we c
 * You need to join the [RaiderKnight server on Discord](https://discord.gg/d3U9E2wb4Y) (no obligations but if you want news...).
 * You need to show your work.
 * If accepted, you will have access to #lp-remake channels.
-* Once in place, your contribution cannot be deleted.<sup>1</sup>
-* You accept to give your contribution to the project.<sup>1</sup>
+* Once in place, your contribution cannot be deleted.[^1]
+* You accept to give your contribution to the project.[^1]
 
-> Notes<sup>1</sup>: Your contribution will be edited by all modders participating in the project.
+> [^1]: Your contribution will be edited by all modders participating in the project.
 
 
 ## How Can I Contribute
