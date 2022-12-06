@@ -2,11 +2,12 @@
 
 #### 👍🎉 First off, thanks for taking the time to contribute! 🎉👍
 The following is a set of guidelines for contributing to the Remake of LifePlay adult game [hosted on GitHub](https://github.com/RaiderKnight/RK-Vin-Base) and my other projects. These are mostly guidelines, not rules. Use your best judgment, and feel free to propose changes to this document in a pull request.
-<br>
-<br>
+
+
 ## Code of Conduct
 This project and everyone participating in it is governed by Raddeck Code of Conduct. By participating, you are expected to uphold this code. Please report unacceptable behavior to [Raddeck](https://discord.gg/d3U9E2wb4Y), in private.
-<br>
+
+
 #### I don't want to read this whole thing I just have a question!
 <hr>
 <blockquote>Note: Please don't file an issue to ask a question. You'll get faster results by using the resources below.</blockquote>
@@ -25,17 +26,17 @@ Even though Discord is a chat service, sometimes it takes several hours for proj
 * Use the #coding-room - Chat for talking about programming.
 * Use the #patrons-saloon - For chatting between patrons, suggestion or else.
 There are many other channels available, check the channel list on #rules
-<br>
-<br>
-## What should I know before I get started?
+
+
+## What should I know before I get started
 
 [Rules for contributing in the Remake of LifePlay](https://lifeplay.site/viewtopic.php?p=565)
 [How to edit/create files for the Remake of LifePlay](https://lifeplay.site/viewtopic.php?p=460)
 
 For the moment, Raddeck, the project administrator, he's the only one who are in charge of editing the files (more than 1500) and adding contributions to the project.
 When we make a significant decision in how we maintain the project and what we can or cannot support, we will document it in the #lp-remake-decisions channel. If you have a question around how we do things, check to see if it is documented on  [RaiderKnight Discord server](https://discord.gg/d3U9E2wb4Y) or [Forums Raider Knight](https://lifeplay.site). If it is not documented there, please open a new topic on Discord or Github and ask your question.
-<br>
-<br>
+
+
 ## Most important rules before joining as an artist, modder or writer
 * You need to be at least 18 years old or older.
 * You need to be an artist, a modder or a writer.
@@ -45,10 +46,10 @@ When we make a significant decision in how we maintain the project and what we c
 * Once in place, your contribution cannot be deleted.<sup>1</sup>
 * You accept to give your contribution to the project.<sup>1</sup>
 
-<blockquote>Notes<sup>1</sup>: Your contribution will be edited by all modders participating in the project.</blockquote>
-<br>
-<br>
-## How Can I Contribute?
+> Notes<sup>1</sup>: Your contribution will be edited by all modders participating in the project.
+
+
+## How Can I Contribute
 
 #### - As a fan, player, other:
 * Reporting Bugs - on [RaiderKnight server on Discord](https://discord.gg/d3U9E2wb4Y) - on [Github](https://github.com/RaiderKnight)
@@ -57,8 +58,8 @@ When we make a significant decision in how we maintain the project and what we c
 * Your First Code Contribution - on [Forums Raider Knight](https://lifeplay.site)
 * Pull Requests - on [Github](https://github.com/RaiderKnight)
 * Supporting my works - on [my Patreon page](https://www.patreon.com/raiderknight)
-<br>
-<br>
+
+
 ##  By joining the project
 
 #### - As an artist:
@@ -80,8 +81,8 @@ Create a story who fit with the Remake of LifePlay universe and I or we will mak
 * Your coding is so bad, that I have to remake it.
 * Your mod don't have enough actions/content/consequences,...
 * Others.
-<br>
-<br>
+
+
 ##  By reporting bugs 
 This section guides you through submitting a bug report for the Remake of LifePlay. Following these guidelines helps maintainers understand your report 📝, reproduce the behavior 💻 💻, and find related reports 🔎.
 
@@ -111,8 +112,8 @@ If the problem wasn't triggered by a specific action, describe what you were doi
 #### Include details about your configuration and environment:
 * Which version of LifePlay are you using? 
 * What's the name and version of the mods do you have installed?
-<br>
-<br>
+
+
 ##  Suggesting Enhancements
 This section guides you through submitting an enhancement suggestion for the Remake of LifePlay, including completely new features and minor improvements to existing functionality. Following these guidelines helps maintainers and the community understand your suggestion 📝 and find related suggestions 🔎.
 
@@ -131,8 +132,8 @@ Enhancement suggestions are tracked as [GitHub issues](https://guides.github.com
 * Describe the current behavior and explain which behavior you expected to see instead and why.
 * Include screenshots and animated GIFs which help you demonstrate the steps or point out the part of LifePlay which the suggestion is related to.
 * Explain why this enhancement would be useful to most LifePlay  users and isn't something that can or should be implemented as a mod.
-<br>
-<br>
+
+
 ##  Your First Code Contribution
 Unsure where to begin contributing to the Remake of LifePlay? You can start by looking through these beginner and help-wanted issues:
 * Ask your questions on [RaiderKnight server on Discord](https://discord.gg/d3U9E2wb4Y) - #support or #coding-room channel or [Forums Raider Knight](https://lifeplay.site).
@@ -146,8 +147,8 @@ Important, helps are only reserved to contributors or modders who needs help or 
 #### Coding conventions
 Follow LifePlay coding conventions included in each version of LifePlay.<br>
 Consider the modders who will read your code, and make it look nice for them.
-<br>
-<br>
+
+
 ##  Pull Requests
 The process described here has several goals:
 * Maintain the Remake of LifePlay's quality
